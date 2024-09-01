@@ -2,8 +2,6 @@
 
 You are reading the README and viewing the code for **v2**.
 
-This code is incomplete and should not be used in production!
-
 ## Top.py
 
 ![issues: unresolved](https://img.shields.io/github/issues/dragdev-studios/top.py?style=for-the-badge)
@@ -12,7 +10,6 @@ This code is incomplete and should not be used in production!
 ![supported python versions: unresolved](https://img.shields.io/pypi/pyversions/top.py?style=for-the-badge)
 ![downloads: unresolved](https://img.shields.io/pypi/dw/top.py?style=for-the-badge)
 ![code style: black](https://img.shields.io/badge/code%20style-black-black?style=for-the-badge)
-![discord.py version: 1.x, 2.0a](https://img.shields.io/badge/discord.py-1.x%20%7C%202.0a-blue?style=for-the-badge)
 
 An alternative wrapper for the [top.gg API](//docs.top.gg)
 
@@ -22,7 +19,7 @@ package, please see [their repo](//github.com/top-gg/python-sdk)._
 
 ### Introduction
 
-> Warning! top.py is not tested to be compatible with discord.py forks, or any other library than the official 
+> Warning! top.py is not tested to be compatible with discord.py forks, or any other library than the official
 > discord.py library. If you encounter issues when using another library, please open an issue with as much detail
 > and support will be added.
 
